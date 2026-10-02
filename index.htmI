@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Road Ka Sathi - Outstation Duty</title>
+<style>
+body{font-family:Arial;text-align:center;background:#f0f8ff;margin:0}
+.header{background:#0d47a1;color:white;padding:25px}
+.box{background:white;margin:20px;padding:20px;border-radius:15px;box-shadow:0 4px 10px #ccc}
+.btn{background:#ff6f00;color:white;padding:15px 30px;border:none;border-radius:30px;font-size:18px}
+h2{color:#0d47a1}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>🚕 Road Ka Sathi</h1>
+<p>Aapka Bharosemand Safar Sathi</p>
+</div>
+
+<div class="box">
+<h2>🌟 Outstation Duty Special</h2>
+<p>Ab ghar baithe book karo Outstation Taxi</p>
+<p>✅ 24x7 Service | ✅ Safe Driver | ✅ Best Price</p>
+<button class="btn">📞 Abhi Book Karo - 9876543210</button>
+</div>
+
+<div class="box">
+<h2>Hamari Sevayein</h2>
+<p>🚖 Local Duty</p>
+<p>🚗 Outstation Duty</p>
+<p>✈️ Airport Transfer</p>
+</div>
+
+<p>© 2026 Road Ka Sathi</p>
+</body>
+</html>
